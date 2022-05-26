@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56133068-f03d-4ac4-a18d-8372b43aedfc" name="Changes" comment="test6">
+    <list default="true" id="56133068-f03d-4ac4-a18d-8372b43aedfc" name="Changes" comment="test8">
       <change beforePath="$PROJECT_DIR$/PRUEBAselenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/PRUEBAselenium.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653587021751</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test8">
+      <created>1653587492795</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653587492795</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +110,7 @@
     <MESSAGE value="test4" />
     <MESSAGE value="test5" />
     <MESSAGE value="test6" />
-    <option name="LAST_COMMIT_MESSAGE" value="test6" />
+    <MESSAGE value="test8" />
+    <option name="LAST_COMMIT_MESSAGE" value="test8" />
   </component>
 </project>
