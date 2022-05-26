@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56133068-f03d-4ac4-a18d-8372b43aedfc" name="Changes" comment="test4" />
+    <list default="true" id="56133068-f03d-4ac4-a18d-8372b43aedfc" name="Changes" comment="test6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +23,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +66,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653582225376</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test5">
+      <created>1653586987869</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653586987869</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test6">
+      <created>1653587021751</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653587021751</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +99,8 @@
     <MESSAGE value="test2" />
     <MESSAGE value="test3" />
     <MESSAGE value="test4" />
-    <option name="LAST_COMMIT_MESSAGE" value="test4" />
+    <MESSAGE value="test5" />
+    <MESSAGE value="test6" />
+    <option name="LAST_COMMIT_MESSAGE" value="test6" />
   </component>
 </project>
