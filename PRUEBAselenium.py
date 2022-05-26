@@ -16,7 +16,7 @@ class prueba_selenium(unittest.TestCase):
     def test_a(self):
         print("me ejecuto en cada test A")
 
-        #GOOGLE
+        #GOOGLE #2
         self.driver.get("https://www.google.com")
         time.sleep(5)
         #aceptamos cookies
